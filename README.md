@@ -7,3 +7,5 @@ This is a bullet list:
 - Use
 - Bullets
 * asterisks works as well
+
+## New Section
